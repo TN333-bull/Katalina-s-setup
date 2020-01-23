@@ -1,0 +1,14 @@
+{
+  "name": "katalina",
+  "version": "1.0.0",
+  "description": "An anime bot based on the character and Lyria's bodyguard from Granblue Fantasy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thierry-Israel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
